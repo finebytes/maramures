@@ -3,7 +3,7 @@ title: Maramureș
 email: finebytes@gmail.com
 url: https://finebytes.github.io/
 description: "Excursie maramureș maramures"
-baseurl: "/maramures"
+baseurl: "maramures"
 
 # Color settings
 color:
